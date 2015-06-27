@@ -1,2 +1,2 @@
-# Faince-S
-A great gtk theme for Ubuntu 14.04
+# Faince_S
+A great gtk theme for Ubuntu 14.04.
