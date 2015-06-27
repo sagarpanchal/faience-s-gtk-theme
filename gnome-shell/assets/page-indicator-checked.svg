@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg4703"
+   height="18"
+   width="18"
+   version="1.1"
+   inkscape:version="0.48+devel r12790"
+   sodipodi:docname="page-indicator-checked.svg">
+  <defs
+     id="defs4068" />
+  <sodipodi:namedview
+     pagecolor="#888888"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview4066"
+     showgrid="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:zoom="27.222222"
+     inkscape:cx="0.56938776"
+     inkscape:cy="9"
+     inkscape:current-layer="svg4703">
+    <inkscape:grid
+       type="xygrid"
+       id="grid5728" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4708">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="matrix(0.75002659,0,0,0.75000535,2.2465479,3.7542817)">
+    <path
+       id="path4711"
+       style="fill:#fdffff;fill-opacity:0.94118"
+       d="m 2100,638.83 c 0,5.3 -4.9184,9.5964 -10.985,9.5964 -6.0671,0 -10.985,-4.2965 -10.985,-9.5964 0,-5.3 4.9183,-9.5964 10.985,-9.5964 6.067,0 10.985,4.2965 10.985,9.5964 z"
+       transform="matrix(0.72824,0,0,0.83364,-1512.3,-525.56)"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
