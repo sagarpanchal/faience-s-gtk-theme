@@ -1,3 +1,3 @@
-Faince S Theme
+Faience S Theme
 ==============
-Faince is a GTK Theme For Ubuntu 14.04.
+Faience is a GTK Theme For Ubuntu 14.04.
